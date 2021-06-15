@@ -1,0 +1,108 @@
+h1{
+color: rgb(0, 0, 0);
+text-align: center;
+
+}
+p{
+    text-align: center;
+
+
+}
+
+
+.box{
+    background-image:url('./images/bg-header-desktop.png') ;
+}
+
+div.box{
+    text-align: center;
+;
+}
+div.button{
+text-align: center;
+}
+h3{
+text-align: center;
+
+}
+
+
+
+.main{
+display: flex;
+justify-content: center;
+
+}
+.device{
+    margin-left: 35%;
+}
+img{
+width: 450px;
+}
+
+
+
+
+.icons{
+    display: flex;
+   justify-content: center;
+   margin: 5%;
+   box-sizing: content-box;
+}
+div.logo{
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+}
+.google{
+    width: 200px;
+    margin-left: 10%;
+}
+.ibm{
+    width: 200px;
+    margin-left: 20%;
+}
+.microsoft{
+    width: 200px;
+    margin-left: 30%;
+}
+.hp{
+    width: 200px;
+    margin-left: 40%;
+}
+.vector{
+    width: 200px;
+    margin-left: 50%;
+}
+h2{
+    text-align: center;
+}
+
+.container{
+    background-color: rgba(219, 229, 231, 0.842);
+
+}
+.C{
+    width: 50%;
+    margin-left: px;
+}
+.social{
+    margin-bottom: 5px;
+    margin-left: 1000px;
+}
+.btn1{
+    color: white;
+    background-color: rgb(38,187,165);
+    border-radius: 50px;
+    border: none;
+    width: 200px;
+    height: 40px;
+}
+.btn2{
+    color: white;
+    background-color: rgb(128,128,255);
+    border-radius: 50px;
+    border: none;
+    width: 200px;
+    height: 40px;
+}
